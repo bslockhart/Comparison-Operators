@@ -10,20 +10,20 @@
 
 ## matchIt
 
-* !==
+!==
 - These are NOT equal values and equal types
 
-* !=
+!=
 - These are NOT equal values
 
-* === 
+=== 
 - These ARE equal values and equal types
 
-* ==
+==
 - These ARE equal values
 
-* >=
+>=
 - Is Less than or equal to
 
-* <=
+<=
 - Is Greater than or equal to
